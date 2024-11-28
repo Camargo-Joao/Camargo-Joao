@@ -1,5 +1,4 @@
-# Olá! Seja bem vindo ao meu perfil!
-## Me chamo João Pedro Camargo e estou cursando meu último ano de TI
+## Olá! Sou João Pedro Camargo e estou cursando meu último ano em TI!
 
 Cursos finalizados:
   - CSS intermediário 📘
