@@ -1,4 +1,4 @@
-## Olá sou João Pedro Camargo, desenvolvedor Web, cursando meu último ano em TI!
+## Olá sou João Pedro Camargo, desenvolvedor Web, cursando último ano em TI!
 
 Conhecimentos:
   - CSS intermediário 📘
