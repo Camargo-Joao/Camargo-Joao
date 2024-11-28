@@ -3,6 +3,7 @@
 Cursos finalizados:
   - CSS intermediário 📘
   - HTML intemediário 🔍
+  - Wordpress 📝
 
   
 Cursando:
