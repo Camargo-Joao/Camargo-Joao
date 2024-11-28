@@ -2,5 +2,9 @@
 Me chamo João Pedro Camargo e estou cursando meu último ano de TI
 
 Cursos complementares:
-  - Cursando Python 🐍
+  - CSS intermediário 📘
+  - HTML intemediário 🔍
+  
+Cursando:
+  - Explorando Python 🐍
   - Cursando MERN ⚛️
