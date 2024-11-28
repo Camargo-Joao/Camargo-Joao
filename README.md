@@ -1,9 +1,10 @@
-## Olá! Sou João Pedro Camargo e estou cursando meu último ano em TI!
+## Olá! Sou João Pedro Camargo! Sou desenvolvedor Web e estou cursando meu último ano em TI!
 
-Cursos finalizados:
+Conhecimentos:
   - CSS intermediário 📘
   - HTML intemediário 🔍
   - Wordpress 📝
+  - Flutter 🪴
 
   
 Cursando:
