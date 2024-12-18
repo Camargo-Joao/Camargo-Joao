@@ -1,6 +1,6 @@
 ## Olá sou João Pedro Camargo, desenvolvedor Web e Técnico em Informática!
 
-![Meu Status](https://github-readme-stats.vercel.app/api?username=Camargo-Joao&show_icons=true&theme=transparent)
+![Meu Status](https://github-readme-stats.vercel.app/api?username=Camargo-Joao&show_icons=true&theme=tokyonight)
 
 Conhecimentos:
   - CSS intermediário 📘
