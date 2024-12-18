@@ -18,8 +18,8 @@ Conhecimentos Básicos:
 ## 
 
 Cursando:
-  - Explorando Python 🐍
-  - Cursando MERN ⚛️
+  - Python 🐍
+  - MERN ⚛️
 
 ##
     
