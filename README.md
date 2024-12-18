@@ -1,4 +1,4 @@
-## Olá sou João Pedro Camargo, desenvolvedor Web e Técnico em Informática!
+## Olá! sou João Pedro Camargo, desenvolvedor Web e Técnico em Informática!
 
 Conhecimentos básicos:
 
