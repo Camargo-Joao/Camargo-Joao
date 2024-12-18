@@ -1,6 +1,6 @@
 ## Olá sou João Pedro Camargo, desenvolvedor Web e Técnico em Informática!
 
-Conhecimentos Básicos:
+Conhecimentos básicos:
 
 <div>
   <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
