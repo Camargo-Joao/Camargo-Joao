@@ -1,4 +1,4 @@
-## Hello! I'm João Pedro Camargo, Web designer and TI!
+## Hello! I'm João Pedro Camargo, Web designer and IT!
 
 Basic skills:
 
