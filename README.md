@@ -1,6 +1,6 @@
-## Olá! sou João Pedro Camargo, desenvolvedor Web e Técnico em Informática!
+## Hello! I'm João Pedro Camargo, Web designer and TI!
 
-Conhecimentos básicos em:
+Basic skills:
 
 <div>
   <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -18,7 +18,7 @@ Conhecimentos básicos em:
 
 ## 
 
-Cursando:
+Studying:
   - Python 🐍
   - MERN ⚛️
 
